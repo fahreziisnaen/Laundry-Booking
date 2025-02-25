@@ -1,33 +1,33 @@
-# AZZAHRA LAUNDRY MANAGEMENT SYSTEM
+# 🧺 AZZAHRA LAUNDRY MANAGEMENT SYSTEM
 
 Sistem manajemen laundry modern yang dibangun dengan Laravel, dilengkapi fitur manajemen booking, tracking status secara real-time, dan manajemen pelanggan.
 
-## FITUR UTAMA
+## ✨ FITUR UTAMA
 
-- Manajemen Booking Laundry
-- Tracking Pesanan Real-time
-- Dashboard Customer & Admin
-- Manajemen Pickup/Delivery
-- Manajemen Paket & Harga
-- Update Status & Notifikasi
+- 📅 Manajemen Booking Laundry
+- 🔍 Tracking Pesanan Real-time
+- 📊 Dashboard Customer & Admin
+- 🚚 Manajemen Pickup/Delivery
+- 💰 Manajemen Paket & Harga
+- 🔔 Update Status & Notifikasi
 
-## TEKNOLOGI YANG DIGUNAKAN
+## 🛠️ TEKNOLOGI YANG DIGUNAKAN
 
-- Laravel 10.x
-- MySQL/MariaDB
-- Tailwind CSS
-- Livewire
-- Alpine.js
-- Jetstream
+- 🔥 Laravel 10.x
+- 🗄️ MySQL/MariaDB
+- 🎨 Tailwind CSS
+- ⚡ Livewire
+- 🏔️ Alpine.js
+- 🚀 Jetstream
 
-## PERSYARATAN SISTEM
+## 📋 PERSYARATAN SISTEM
 
 - PHP >= 8.1
 - Composer
 - Node.js & NPM
 - MySQL/MariaDB
 
-## CARA INSTALASI
+## 📥 CARA INSTALASI
 
 1. **Clone repository**
    ```bash
@@ -80,7 +80,7 @@ Sistem manajemen laundry modern yang dibangun dengan Laravel, dilengkapi fitur m
    php artisan serve
    ```
 
-## SETUP PENGEMBANGAN
+## 👨‍💻 SETUP PENGEMBANGAN
 
 1. **Buat user admin**
    ```php
@@ -99,7 +99,7 @@ Sistem manajemen laundry modern yang dibangun dengan Laravel, dilengkapi fitur m
    php artisan db:seed --class=PackageSeeder
    ```
 
-## STRUKTUR FOLDER
+## 📁 STRUKTUR FOLDER
 
 ```
 azzahra-laundry/
@@ -122,11 +122,11 @@ azzahra-laundry/
     └── web.php
 ```
 
-## LISENSI
+## 📄 LISENSI
 
 Proyek ini dilisensikan di bawah Lisensi MIT
 
-## KONTAK
+## 📬 KONTAK
 
-Email: fahreziisnaen21@gmail.com 
-Project Link: https://github.com/fahreziisnaen/Laundry-Booking/
+📧 Email: fahreziisnaen21@gmail.com  
+🔗 Project Link: https://github.com/fahreziisnaen/Laundry-Booking/

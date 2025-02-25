@@ -122,19 +122,11 @@ azzahra-laundry/
     └── web.php
 ```
 
-## PANDUAN KONTRIBUSI
-
-1. Fork repository
-2. Buat branch fitur (`git checkout -b feature/NamaFitur`)
-3. Commit perubahan (`git commit -m 'Menambahkan NamaFitur'`)
-4. Push ke branch (`git push origin feature/NamaFitur`)
-5. Buat Pull Request
-
 ## LISENSI
 
 Proyek ini dilisensikan di bawah Lisensi MIT
 
 ## KONTAK
 
-Email: your.email@example.com  
-Project Link: https://github.com/yourusername/azzahra-laundry
+Email: fahreziisnaen21@gmail.com 
+Project Link: https://github.com/fahreziisnaen/Laundry-Booking/

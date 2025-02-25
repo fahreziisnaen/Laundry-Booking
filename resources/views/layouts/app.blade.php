@@ -17,7 +17,11 @@
         <!-- Styles -->
         @livewireStyles
 
-        <link rel="icon" type="image/png" href="{{ asset('images/favicon.png') }}">
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/favicon.png') }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/favicon.png') }}">
+        <link rel="shortcut icon" href="{{ asset('images/favicon.png') }}" type="image/x-icon">
+        <link rel="apple-touch-icon" href="{{ asset('images/favicon.png') }}">
     </head>
     <body class="font-sans antialiased">
         <x-banner />

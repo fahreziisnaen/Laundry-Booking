@@ -19,10 +19,10 @@
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
          <?php $__env->slot('logo', null, []); ?> 
-            <?php if (isset($component)) { $__componentOriginal1a590bee94ab2d9c08b342367154fca0 = $component; } ?>
-<?php if (isset($attributes)) { $__attributesOriginal1a590bee94ab2d9c08b342367154fca0 = $attributes; } ?>
-<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'components.authentication-card-logo','data' => []] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? $attributes->all() : [])); ?>
-<?php $component->withName('authentication-card-logo'); ?>
+            <?php if (isset($component)) { $__componentOriginal8892e718f3d0d7a916180885c6f012e7 = $component; } ?>
+<?php if (isset($attributes)) { $__attributesOriginal8892e718f3d0d7a916180885c6f012e7 = $attributes; } ?>
+<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'components.application-logo','data' => []] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? $attributes->all() : [])); ?>
+<?php $component->withName('application-logo'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
 <?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag): ?>
@@ -31,13 +31,13 @@
 <?php $component->withAttributes([]); ?>
 <?php echo $__env->renderComponent(); ?>
 <?php endif; ?>
-<?php if (isset($__attributesOriginal1a590bee94ab2d9c08b342367154fca0)): ?>
-<?php $attributes = $__attributesOriginal1a590bee94ab2d9c08b342367154fca0; ?>
-<?php unset($__attributesOriginal1a590bee94ab2d9c08b342367154fca0); ?>
+<?php if (isset($__attributesOriginal8892e718f3d0d7a916180885c6f012e7)): ?>
+<?php $attributes = $__attributesOriginal8892e718f3d0d7a916180885c6f012e7; ?>
+<?php unset($__attributesOriginal8892e718f3d0d7a916180885c6f012e7); ?>
 <?php endif; ?>
-<?php if (isset($__componentOriginal1a590bee94ab2d9c08b342367154fca0)): ?>
-<?php $component = $__componentOriginal1a590bee94ab2d9c08b342367154fca0; ?>
-<?php unset($__componentOriginal1a590bee94ab2d9c08b342367154fca0); ?>
+<?php if (isset($__componentOriginal8892e718f3d0d7a916180885c6f012e7)): ?>
+<?php $component = $__componentOriginal8892e718f3d0d7a916180885c6f012e7; ?>
+<?php unset($__componentOriginal8892e718f3d0d7a916180885c6f012e7); ?>
 <?php endif; ?>
          <?php $__env->endSlot(); ?>
 

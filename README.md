@@ -31,7 +31,7 @@ Sistem manajemen laundry modern yang dibangun dengan Laravel, dilengkapi fitur m
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/azzahra-laundry.git
+   git clone https://github.com/fahreziisnaen/azzahra-laundry.git
    cd azzahra-laundry
    ```
 
